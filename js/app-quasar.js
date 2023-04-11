@@ -1,0 +1,5 @@
+app.use(Quasar, {
+    config: {
+
+    }
+})
